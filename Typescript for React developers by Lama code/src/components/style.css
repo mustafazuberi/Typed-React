@@ -1,0 +1,38 @@
+.eventExample form input {
+  padding: 15px;
+  border-radius: 5px;
+  outline: none;
+  font-size: 13px;
+  border: 1px solid grey;
+  width: 340px;
+}
+
+.deleteBtn {
+  border: 1px solid red;
+  background-color: rgb(202, 0, 0);
+  color: white;
+  padding: 8px 25px;
+  font-size: 17px;
+}
+.deleteBtn:hover {
+  background-color: white;
+  color: red;
+  border: 1px solid red;
+}
+
+/* Use State Example */
+.UseStateExample input {
+  padding: 15px;
+  border-radius: 5px;
+  outline: none;
+  font-size: 13px;
+  border: 1px solid grey;
+  width: 340px;
+}
+
+.UseRefExample input {
+  outline: none;
+  padding: 10px 10px;
+  border: 1px solid grey;
+  display: block;
+}
